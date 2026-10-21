@@ -176,6 +176,8 @@
 - [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - Personal genome analysis toolkit that processes raw DNA data from 23andMe/AncestryDNA across 17 categories (health, ancestry, nutrition, pharmacogenomics, longevity, etc.) and generates a terminal-style HTML dashboard.
 - [Satori](https://github.com/MetcalfSolutions/Satori) - Clinically informed wisdom companion blending IFS, DBT, Stoicism, Buddhism, and six other traditions into a structured thinking partner.
 
+- [inkroom-prompts](https://github.com/InkRoom-AI/inkroom-client/tree/main/prompts/skills/inkroom-prompts) - Search image prompts with their original examples, rewrite image ideas, and read public model capabilities and sale prices; no account or API key required.
+
 
 ## 🤝 Collaboration & Project Management
 - [agent-manager-skill](https://github.com/fractalmind-ai/agent-manager-skill) - Manage multiple local CLI AI agents via tmux sessions (start/stop/monitor/assign) with cron-friendly scheduling; no server required.
