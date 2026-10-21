@@ -145,6 +145,7 @@
 
 
 ## 🎬 Media & Content
+- [InkRoom](https://github.com/InkRoom-AI/inkroom-client/blob/main/SKILL.md) - Discover public image models and prices without login; generate and edit images with an InkRoom account and MCP Token, with cost previews, batch requests, and saved result recovery.
 - [youtube-transcript](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript) - Fetch transcripts from YouTube videos and prepare summaries.
 - [video-downloader](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader) - Downloads videos from YouTube and other platforms for offline viewing, editing, or archival.
 - [image-enhancer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer) - Improves the quality of images, especially screenshots.
